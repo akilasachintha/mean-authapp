@@ -1,4 +1,4 @@
 module.exports = {
-    database: 'mongodb://localhost:27017/meanauthdb',
+    database: 'mongodb+srv://akilaDBuser:Akila%402021@akilamongodb.dbkf5.mongodb.net/meanAuthAppDB?retryWrites=true&w=majority',
     secret: 'mysecret'
 }
